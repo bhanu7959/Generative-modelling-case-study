@@ -56,40 +56,6 @@ The project consists of two main parts.
 
 ---
 
-## Repository Structure
-
-```
-Generative-Modelling-Case-Study/
-
-│
-├── GAN_Assignment.ipynb
-├── README.md
-├── requirements.txt
-│
-├── data/
-│   └── (datasets if included)
-│
-├── outputs/
-│   ├── Generated Images
-│   ├── Training Losses
-│   ├── PCA Visualisations
-│   ├── FID Results
-│   └── Comparison Figures
-│
-├── models/
-│   ├── oct_generator.pth
-│   ├── oct_discriminator.pth
-│   ├── cicids_generator.pth
-│   ├── cicids_discriminator.pth
-│   ├── quickdraw_generator.pth
-│   └── quickdraw_discriminator.pth
-│
-└── report/
-    └── Generative Modelling Case Study.pdf
-```
-
----
-
 ## Datasets
 
 ### 1. OCTMNIST
