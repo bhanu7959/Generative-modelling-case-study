@@ -128,44 +128,6 @@ The experiments demonstrate that:
 
 ---
 
-## Running the Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/bhanu7959/Generative-modelling-case-study.git
-```
-
-2. Install the required packages
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook
-
-```bash
-jupyter notebook
-```
-
-or upload the notebook to Google Colab.
-
-4. Execute all cells sequentially.
-
----
-
-## Author
-
-Bhanu Prakash Mallam
-
-MSc Data Science
-
-University of Roehampton
-
-Student ID: 24095576
-
----
-
 ## References
 
 - Goodfellow et al. (2014)
